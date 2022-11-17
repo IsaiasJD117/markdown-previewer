@@ -19,4 +19,4 @@ You may also see any lint errors in the console.
 ### `npm install marked`
 ### `npm install dompurify`
 
-# Node modules are required. The folder should be located next to the public and src folders in the project directory
+# Node modules are required! The folder should be located next to the public and src folders in the project directory
