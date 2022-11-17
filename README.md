@@ -1,10 +1,11 @@
 # Welcome to My React Markdown Previewer
 
-## Set up to view in favorite environment and see in browser(must have Node & npm installed on local dev machine).
+## Set up to view in favorite environment and see in browser(must have Node.js & npm installed on local dev machine).
 
 ## First in the project directory run the following command in the terminal:
 
 ### `npm start`
+### `npm install`(installs node modules in directory)
 
 Then open http://localhost:3000/ to see your app.
 
@@ -18,4 +19,4 @@ You may also see any lint errors in the console.
 ### `npm install marked`
 ### `npm install dompurify`
 
-# node modules required the folder should be next to public and src folders in the project directory
+# Node modules are required. The folder should be located next to the public and src folders in the project directory
