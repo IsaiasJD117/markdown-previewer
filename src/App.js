@@ -34,8 +34,8 @@ Blockquote Example:
 > Also part of a blockquote
 Not A blockquote
 ---
-`
-    <img src="https://source.unsplash.com/random" alt='image' width='60%'>,
+
+    <img src="https://source.unsplash.com/random" alt='image' width='60%'>`,
   };
 }
 
